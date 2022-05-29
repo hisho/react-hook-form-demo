@@ -12,7 +12,11 @@
     "format:prettier": "yarn lint:prettier --write"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.1.2",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
     "@hookform/resolvers": "^2.8.10",
+    "framer-motion": "^6",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-hook-form": "^7.31.3"
